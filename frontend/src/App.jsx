@@ -1,7 +1,7 @@
 import React from "react";
-import Register from "./components/register.jsx";
+import Register from "./components/Register.jsx";
 import HomePage from "./components/HomePage.jsx";
-import Login from "./components/login.jsx";
+import Login from "./components/Login.jsx";
 import ProblemSelection from "./components/ProblemSelection.jsx";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import TodoPage from "./components/TodoPage.jsx";
